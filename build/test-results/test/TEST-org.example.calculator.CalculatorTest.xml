@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-27T06:49:00" hostname="DESKTOP-GMK5F1V" time="0.082">
+  <properties/>
+  <testcase name="나눗셈에서 0을 나누는 경우 IllegalArgumentException을 발생시킨다." classname="org.example.calculator.CalculatorTest" time="0.082"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
